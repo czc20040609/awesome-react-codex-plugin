@@ -1,12 +1,12 @@
 {
   "name": "awesome-react",
-  "version": "0.1.0+codex.20260909054324",
+  "version": "0.1.0+codex.20260909055435",
   "description": "A general React and React Native frontend development skill backed by the enaqx/awesome-react resource catalog.",
   "author": {
     "name": "Local developer"
   },
-  "homepage": "https://github.com/enaqx/awesome-react",
-  "repository": "https://github.com/enaqx/awesome-react.git",
+  "homepage": "https://github.com/czc20040609/awesome-react-codex-plugin",
+  "repository": "https://github.com/czc20040609/awesome-react-codex-plugin.git",
   "keywords": [
     "react",
     "react-native",
