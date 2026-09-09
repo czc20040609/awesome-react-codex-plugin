@@ -1,0 +1,20 @@
+{
+  "name": "awesome-react-codex-plugin",
+  "interface": {
+    "displayName": "Awesome React Codex Plugin"
+  },
+  "plugins": [
+    {
+      "name": "awesome-react",
+      "source": {
+        "source": "local",
+        "path": "./plugins/awesome-react"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

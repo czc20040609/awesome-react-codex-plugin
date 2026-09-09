@@ -1,0 +1,35 @@
+{
+  "name": "awesome-react",
+  "version": "0.1.0+codex.20260909054324",
+  "description": "A general React and React Native frontend development skill backed by the enaqx/awesome-react resource catalog.",
+  "author": {
+    "name": "Local developer"
+  },
+  "homepage": "https://github.com/enaqx/awesome-react",
+  "repository": "https://github.com/enaqx/awesome-react.git",
+  "keywords": [
+    "react",
+    "react-native",
+    "frontend",
+    "javascript",
+    "web-development",
+    "resource-catalog"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Awesome React",
+    "shortDescription": "Build, learn, debug, and review React frontends with a curated resource index.",
+    "longDescription": "Use this skill for React and React Native frontend work: understand the existing stack, build accessible components, reuse the project's design system, choose libraries from the bundled Awesome React catalog, and verify current APIs in official documentation.",
+    "developerName": "Local developer",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive"
+    ],
+    "brandColor": "#61DAFB",
+    "defaultPrompt": [
+      "Build this React frontend feature in the existing style.",
+      "Explain and improve this React component.",
+      "Choose a component library for my frontend."
+    ]
+  }
+}
