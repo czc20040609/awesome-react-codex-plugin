@@ -75,3 +75,7 @@ if ($LASTEXITCODE -eq 0) { codex plugin add awesome-react@awesome-react-codex-pl
 Start a new Codex task after installation so the skill is loaded.
 
 Source snapshot: commit `e6fd973eefe57d288a60e6d21bb9d8f343addfe9`.
+
+## License
+
+Original plugin material is licensed under MIT. The bundled `awesome-react.md` catalog is excluded from that license and remains under its upstream CC BY 4.0 terms; see the repository's [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
